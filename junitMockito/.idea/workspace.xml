@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e29d2b4d-dc45-43b0-9e99-a65dab7e8f49" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HyfPz4q7qjG6zoojKvvazKxsNY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Debugging-Techniques/scenario2/ValidatorTest" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.powermock" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.powermock" />
+      <recent name="com.example.business" />
+      <recent name="com.example.data.api" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MockingConstructorTest">
+    <configuration name="InvokingPrivateMethodTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitMockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.powermock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.powermock" />
+      <option name="MAIN_CLASS_NAME" value="com.example.powermock.InvokingPrivateMethodTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockingConstructorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitMockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.powermock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.powermock" />
+      <option name="MAIN_CLASS_NAME" value="com.example.powermock.MockingConstructorTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockingConstructorTest.testMethodCallingAStaticMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitMockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.powermock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.powermock" />
+      <option name="MAIN_CLASS_NAME" value="com.example.powermock.MockingConstructorTest" />
+      <option name="METHOD_NAME" value="testMethodCallingAStaticMethod" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockingConstructorTest.testMethodUsingAContructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitMockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.powermock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.powermock" />
+      <option name="MAIN_CLASS_NAME" value="com.example.powermock.MockingConstructorTest" />
+      <option name="METHOD_NAME" value="testMethodUsingAContructor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockingStaticMethodTest.testMethodCallingAStaticMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitMockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.powermock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.powermock" />
+      <option name="MAIN_CLASS_NAME" value="com.example.powermock.MockingStaticMethodTest" />
+      <option name="METHOD_NAME" value="testMethodCallingAStaticMethod" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.InvokingPrivateMethodTest" />
+      <item itemvalue="JUnit.MockingConstructorTest" />
+      <item itemvalue="JUnit.MockingConstructorTest.testMethodCallingAStaticMethod" />
+      <item itemvalue="JUnit.MockingConstructorTest.testMethodUsingAContructor" />
+      <item itemvalue="JUnit.MockingStaticMethodTest.testMethodCallingAStaticMethod" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MockingConstructorTest" />
+        <item itemvalue="JUnit.MockingConstructorTest.testMethodUsingAContructor" />
+        <item itemvalue="JUnit.MockingConstructorTest.testMethodCallingAStaticMethod" />
+        <item itemvalue="JUnit.InvokingPrivateMethodTest" />
+        <item itemvalue="JUnit.MockingStaticMethodTest.testMethodCallingAStaticMethod" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e29d2b4d-dc45-43b0-9e99-a65dab7e8f49" name="Changes" comment="" />
+      <created>1669184269739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669184269739</updated>
+    </task>
+    <servers />
+  </component>
+</project>
